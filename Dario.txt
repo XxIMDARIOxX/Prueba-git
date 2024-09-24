@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy dario y este mismo fichero esta siendo modificado por jose
+=======
+Hola soy Jose modificando este fichero
+>>>>>>> 86479373fa7ae846148c5dd6d5508bcd4fe97541
